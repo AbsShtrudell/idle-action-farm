@@ -1,2 +1,2 @@
 # IdleActionFarm
-Тестовое задание от DorferGames
+Test task from DorferGames
