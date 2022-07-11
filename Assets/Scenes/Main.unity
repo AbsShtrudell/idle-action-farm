@@ -9426,7 +9426,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8668493385836768076, guid: 7c45b1711ac0adf40adf1406a16241e5, type: 3}
       propertyPath: m_PathPosition
-      value: 3.448768
+      value: 11.58845
       objectReference: {fileID: 0}
     - target: {fileID: 8668493386687343496, guid: 7c45b1711ac0adf40adf1406a16241e5, type: 3}
       propertyPath: m_Follow
